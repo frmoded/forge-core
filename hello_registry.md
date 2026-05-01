@@ -8,5 +8,5 @@ description: Returns 'hello registry' to confirm the registry-fetched snippet ex
 Return the string "hello registry".
 
 # Python
-def run(context):
+def compute(context):
   return "hello registry"
